@@ -52,6 +52,12 @@
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/efec326298c9f12d5e6ca746bcb6654046d03465/java.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_black" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/vsc.png" alt="visual-studio-code" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_black" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/intelliJ-idea.png" alt="intelliJ-idea" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_black" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/pycharm.png" alt="pycharm" width="40" height="40"/> </a>
+  <a href="https://www.minecraft.net/en-us/download" target="_black" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/minecraft.svg" alt="minecraft" width="40" height="40"/> </a>
 </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/cf9035eb3a9d2c05b570d47ca2dfb508557788c5/snake.svg" alt="snake game" /> </p>
