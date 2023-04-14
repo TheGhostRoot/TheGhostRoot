@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **More projects and help others**
 
-- 👨‍💻 All of my projects are available at [GitHub: https://github.com/TheGhostRoot?tab=repositories](GitHub: https://github.com/TheGhostRoot?tab=repositories)
+- 👨‍💻 All of my projects are available at **GitHub: https://github.com/TheGhostRoot?tab=repositories**
 
 - 📫 How to reach me **Discord: 𝓻𝓸𝓸𝓽𝔂#1389**
 
