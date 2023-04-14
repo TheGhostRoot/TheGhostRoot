@@ -52,6 +52,8 @@
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/vsc.png" alt="visual-studio-code" width="40" height="40"/> </a>
 </p>
 
+<p align="center"> <img src="" alt="snake game" /> </p>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theghostroot&show_icons=true&theme=dark&locale=en&layout=compact" alt="theghostroot" /></p>
 
