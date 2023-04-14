@@ -53,9 +53,9 @@
   <a href="https://code.visualstudio.com/" target="_black" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/vsc.png" alt="visual-studio-code" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/idea/" target="_black" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/intelliJ-idea.png" alt="intelliJ-idea" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/intelliJ-idea.svg" alt="intelliJ-idea" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_black" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/pycharm.png" alt="pycharm" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/pycharm.svg" alt="pycharm" width="40" height="40"/> </a>
   <a href="https://www.minecraft.net/en-us/download" target="_black" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/minecraft.svg" alt="minecraft" width="40" height="40"/> </a>
 </p>
