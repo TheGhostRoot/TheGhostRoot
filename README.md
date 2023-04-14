@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Backend Programmer</h1>
 <h3 align="center">I have any names like TheGoldenMine, TheGostRoot, Rooty.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="theghostroot" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="theghostroot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theghostroot" alt="theghostroot" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theghostroot" alt="theghostroot" /></a> </p>
 
 - 🔭 I’m currently working on **Many other small and big projects**
 
@@ -20,8 +20,8 @@
 - **Yesterday is history, Tomorrow is a mystery, but Today is a gift.**
 - **Be yourself and nobody else.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/kriskata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kriskata" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/tHUZtECbB5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tHUZtECbB5" height="30" width="40" /></a>
 </p>
