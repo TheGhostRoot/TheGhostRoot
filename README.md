@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Backend Programmer</h1>
 <h3 align="center">I have any names like TheGoldenMine, TheGostRoot, Rooty.</h3>
 
-<!--![rick](https://user-images.githubusercontent.com/86381367/231989213-c4183ae7-45d7-49b9-be2f-823324c6ac05.gif)-->
-
-<!--![line](https://user-images.githubusercontent.com/86381367/231989245-3dc0f0c2-5bf6-4a9a-a93f-a9269d9c0f39.gif)-->
-
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/rick.gif" alt="rick" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/line.gif" alt="rainbow line" /> </p>
+<!--<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/line.gif" alt="rainbow line" /> </p>-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="theghostroot" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theghostroot" alt="theghostroot" /></a> </p>
 
-<p align="center"> <a href="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /></a> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
 
 - 🔭 I’m currently working on **Many other small and big projects**
 
