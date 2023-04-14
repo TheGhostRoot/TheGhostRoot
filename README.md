@@ -62,6 +62,6 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theghostroot&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
 
-<!--Gravity falls-->
-
+<p><img align="center" src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gifs" alt="theghostroot" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theghostroot&theme=dark" alt="theghostroot" /></p>
