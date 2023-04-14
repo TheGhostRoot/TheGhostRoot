@@ -57,7 +57,11 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theghostroot&show_icons=true&theme=dark&locale=en&layout=compact" alt="theghostroot" /></p>
 
+<!--Game-->
+
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theghostroot&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
+
+<!--Gravity falls-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theghostroot&theme=dark" alt="theghostroot" /></p>
