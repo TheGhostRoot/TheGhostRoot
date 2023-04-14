@@ -27,6 +27,8 @@
 - **Yesterday is history, Tomorrow is a mystery, but Today is a gift.**
 - **Be yourself and nobody else.**
 
+<p align="center"> <img src="" alt="lofi" /> </p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/kriskata" target="blank">
