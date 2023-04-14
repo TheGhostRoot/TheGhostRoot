@@ -41,7 +41,7 @@
  <!--https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/d48a1dc73959d6a6a78633ddf51599ab09b06097/flask.svg-->
  <!--https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg-->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/d48a1dc73959d6a6a78633ddf51599ab09b06097/flask.svg" alt="flask" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/d48a1dc73959d6a6a78633ddf51599ab09b06097/flask.svg" alt="flask" width="70" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
