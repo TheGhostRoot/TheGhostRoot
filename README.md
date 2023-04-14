@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
 
-- 🔭 I’m currently working on **Many other small and big projects**
+- 🔭 I’m currently working on **small and big projects**
 
 - 🌱 I’m currently learning **Frameworks, Libraries, Advanced Java, AI**
 
