@@ -26,6 +26,7 @@
 - **It's not only about coding. It's about bringing ideas to life.**
 - **Yesterday is history, Tomorrow is a mystery, but Today is a gift.**
 - **Be yourself and nobody else.**
+- **Anger makes you smaller, while forgiveness forces you to grow beyond what you were.**
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/lofi.gif" alt="lofi" /> </p>
 
