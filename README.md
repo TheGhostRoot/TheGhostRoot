@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Backend Programmer</h1>
 <h3 align="center">I have many names like: TheGoldenMine, TheGostRoot, Rooty.</h3>
 
-<p align="center"> <img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="build with love" /> </p>
+<!-- <p align="center"> <img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="build with love" /> </p> -->
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/rick.gif" alt="rick" /> </p>
 <!--<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/line.gif" alt="rainbow line" /> </p>-->
