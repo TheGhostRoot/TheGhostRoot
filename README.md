@@ -8,7 +8,7 @@
 <!--https://profile-counter.glitch.me/TheGhostRoot/count.svg-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theghostroot" alt="theghostroot" /></a> </p>
+[<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theghostroot" alt="theghostroot" /></a> </p>](https://github-profile-trophy.vercel.app/?username=theghostroot&theme=tokyonight)
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
 
