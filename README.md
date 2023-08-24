@@ -68,6 +68,8 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/cf9035eb3a9d2c05b570d47ca2dfb508557788c5/snake.svg" alt="snake game" /> </p>
 
+<img src="https://myreadme.vercel.app/api/embed/TheGhostRoot?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theghostroot&show_icons=true&theme=dark&locale=en&layout=compact" alt="theghostroot" /></p>
 
