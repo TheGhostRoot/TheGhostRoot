@@ -8,7 +8,7 @@
 <!--https://profile-counter.glitch.me/TheGhostRoot/count.svg-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-[<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theghostroot" alt="theghostroot" /></a> </p>](https://github-profile-trophy.vercel.app/?username=theghostroot&theme=tokyonight)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theghostroot" alt="theghostroot" /></a> </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
 
@@ -34,9 +34,10 @@
 <p align="center">
 <a href="https://www.hackerrank.com/kriskata" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kriskata" height="40" width="40" /></a>
-<a href="https://discord.gg/tHUZtECbB5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tHUZtECbB5" height="40" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/linkedin.jpg" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" height="40" width="40" /></a>
+  <a href="https://discord.gg/tHUZtECbB5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tHUZtECbB5" height="40" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/linkedin.png" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
