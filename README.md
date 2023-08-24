@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub</h1>
-<h3 align="center">I have many names like: TheGoldenMine, TheGostRoot, Rooty.</h3>
+<h3 align="center">I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
 
 <!-- <p align="center"> <img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="build with love" /> </p> -->
 
