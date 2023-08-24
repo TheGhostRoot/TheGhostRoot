@@ -33,11 +33,11 @@
 <h3 align="center">Contact me:</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/kriskata" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kriskata" height="40" width="40" /></a>
-
-  <a href="https://discord.gg/tHUZtECbB5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tHUZtECbB5" height="40" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/linkedin.png" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" height="40" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kriskata" height="40" width="40" /</a>
+<a href="https://discord.gg/tHUZtECbB5" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tHUZtECbB5" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/linkedin.png" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
