@@ -78,4 +78,4 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gif" alt="gravity falls" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theghostroot" alt="theghostroot" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theghostroot&theme=dark" alt="theghostroot" /></p>
