@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Small and big projects**
 
-- 🌱 I’m currently learning **Frameworks, Libraries, Advanced Java, AI**
+- 🌱 I’m currently learning **Frameworks, Libraries and AI**
 
 - 👯 I’m looking to collaborate on **More projects and help others**
 
