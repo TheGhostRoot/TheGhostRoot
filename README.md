@@ -66,7 +66,7 @@
   <a href="https://hub.docker.com/" target="_black" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/docker.png" alt="docker" width="40" height="40"/> </a>
   <a href="https://flutter.dev/" target="_black" rel="noreferrer">
-    <img src="https://github.com/TheGhostRoot/TheGhostRoot/blob/ToolBox/flutter.png?raw=true" alt="flutter" width="50" height="50"/> </a>
+    <img src="https://github.com/TheGhostRoot/TheGhostRoot/blob/ToolBox/flutter.png?raw=true" alt="flutter" width="60" height="50"/> </a>
 </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/cf9035eb3a9d2c05b570d47ca2dfb508557788c5/snake.svg" alt="snake game" /> </p>
