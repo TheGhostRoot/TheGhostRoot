@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="build with love" /> </p> -->
 
-<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/rick.gif" alt="rick" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/wof_death.gif" alt="rick" /> </p>
 <!--<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/line.gif" alt="rainbow line" /> </p>-->
 <!--https://profile-counter.glitch.me/TheGhostRoot/count.svg-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
