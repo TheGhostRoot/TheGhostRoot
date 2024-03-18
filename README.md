@@ -71,8 +71,8 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/cf9035eb3a9d2c05b570d47ca2dfb508557788c5/snake.svg" alt="snake game" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theghostroot&show_icons=true&theme=dark&locale=en&layout=compact" alt="theghostroot" /></p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theghostroot&show_icons=true&theme=dark&locale=en&layout=compact" alt="theghostroot" /></p>-->
 
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/game.gif" alt="terminal game" width="500" height="500" /></p> -->
 
@@ -81,4 +81,4 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gif" alt="gravity falls" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theghostroot&theme=dark" alt="theghostroot" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theghostroot&theme=dark" alt="theghostroot" /></p> -->
