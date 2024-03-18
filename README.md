@@ -29,7 +29,7 @@
 - **Anger makes you smaller, while forgiveness forces you to grow beyond what you were.**
 - **In C every allocation must be free.**
 
-<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/lofi.gif" alt="lofi" /> </p>
+<!-- <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/lofi.gif" alt="lofi" /> </p> -->
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
