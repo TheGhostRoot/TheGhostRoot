@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at **GitHub: https://github.com/TheGhostRoot?tab=repositories**
 
-- 📫 How to reach me Discord: \_rooty_ OR 𝓻𝓸𝓸𝓽𝔂#2288
+- 📫 How to reach me Discord: \_rooty_ OR 𝓻𝓸𝓸𝓽𝔂
 
 - 💡 Quotes 
 - **It's not only about coding. It's about bringing ideas to life.**
