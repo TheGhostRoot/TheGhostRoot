@@ -28,6 +28,7 @@
 - **Be yourself and nobody else.**
 - **Anger makes you smaller, while forgiveness forces you to grow beyond what you were.**
 - **In C every allocation must be free.**
+- **The more errors you have the less you will have**
 
 <!-- <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/lofi.gif" alt="lofi" /> </p> -->
 
