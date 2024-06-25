@@ -74,7 +74,7 @@
 <h3>Contact Me</h3>
 </summary>
 <ul>
-    <p>Discord: \_rooty_ OR 𝓻𝓸𝓸𝓽𝔂</p>
+    <p>Discord: _rooty_ OR 𝓻𝓸𝓸𝓽𝔂</p>
     <p align="center">
 <a href="https://www.hackerrank.com/kriskata" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kriskata" height="40" width="40" /</a>
