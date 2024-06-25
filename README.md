@@ -12,6 +12,7 @@
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheGhostRoot&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
     </a>
+    </br>
     <p>🔭I would like to expend my knowledge and be better at what I am doing.</p>
     <p>🌱I can't stop learning new stuff. There is always something new that I didn't know and that is the beauty of live.</p>
     <p>👨‍💻I am looking for a job.</p>
