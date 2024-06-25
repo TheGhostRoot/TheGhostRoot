@@ -11,7 +11,7 @@
 </details>
 
 
-<details open align="center">
+<details close align="center">
 <summary>
 <h3>Fun</h3>
 </summary>
