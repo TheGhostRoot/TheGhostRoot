@@ -4,7 +4,7 @@
 
 <h3><samp>Stats</samp></h3>
 <ul>
-  <li><p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p></li>
+  <p><li><p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p></li></p>
 </ul>
 
 <h3><samp>Fun</samp></h3>
