@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub</h1>
 <h3 align="center">I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
 
-<details open align="center">
+<details close align="center">
 <summary>
 <h3>Stats</h3>
 </summary>
@@ -22,7 +22,7 @@
 </details>
 
 
-<details open align="center">
+<details close align="center">
 <summary>
 <h3>Skills</h3>
 </summary>
