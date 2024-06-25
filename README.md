@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub</h1>
 <h3 align="center">I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
 
-<!-- <p align="center"> <img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="build with love" /> </p> -->
 
-<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/wof_death.gif" alt="rick" /> </p>
-<!--<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/line.gif" alt="rainbow line" /> </p>-->
-<!--https://profile-counter.glitch.me/TheGhostRoot/count.svg-->
+<h3><samp>Stats</samp></h3>
+<ul>
+  <li><p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p></li>
+</ul>
+
+<h3><samp>Fun</samp></h3>
+
+
+<h3><samp>Skills</samp></h3>
+
+
+
+
+<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/wof_death.gif" alt="wold" /> </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
-
-<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theghostroot" alt="theghostroot" /></a> </p>-->
 
 <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
 
