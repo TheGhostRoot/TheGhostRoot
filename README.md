@@ -66,11 +66,11 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/PyCharm-%23F05033.svg?style=for-the-badge&logo=pycharm&logoColor=CE7600&color=black" alt="pycharm"/> </a>
   <a href="https://www.minecraft.net/en-us/download" target="_black" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/minecraft.svg" alt="minecraft" width="40" height="40"/> </a>
+    <img src="https://img.shields.io/badge/Minecraft-%23F05033.svg?style=for-the-badge&logo=minecraft&logoColor=green&color=brown" alt="minecraft" /> </a>
   <a href="https://hub.docker.com/" target="_black" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/docker.png" alt="docker" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/docker.png" alt="docker" /> </a>
   <a href="https://flutter.dev/" target="_black" rel="noreferrer">
-    <img src="https://github.com/TheGhostRoot/TheGhostRoot/blob/ToolBox/flutter.png?raw=true" alt="flutter" width="60" height="50"/> </a>
+    <img src="https://github.com/TheGhostRoot/TheGhostRoot/blob/ToolBox/flutter.png?raw=true" alt="flutter" /> </a>
 </p>
 </ul>
 </details>
