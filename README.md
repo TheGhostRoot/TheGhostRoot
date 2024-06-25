@@ -52,7 +52,7 @@
 <ul>
     <p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=2C2C2C" alt="git"/> </a>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=D84300" alt="git"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/linux-%23F05033.svg?style=for-the-badge&logo=linux&logoColor=white&color=B88800" alt="linux"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
