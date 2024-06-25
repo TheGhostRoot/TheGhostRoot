@@ -50,7 +50,7 @@
 <h3>🖥️Skills</h3>
 </summary>
 <ul>
-    <p align="center"> 
+    <dir align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=D84300" alt="git"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -68,10 +68,12 @@
   <a href="https://www.minecraft.net/en-us/download" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Minecraft-%23F05033.svg?style=for-the-badge&logo=minecraft&logoColor=green&color=brown" alt="minecraft" /> </a>
   <a href="https://hub.docker.com/" target="_black" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/docker.png" alt="docker" /> </a>
+    <img src="https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=blue&color=black" alt="docker" /> </a>
   <a href="https://flutter.dev/" target="_black" rel="noreferrer">
-    <img src="https://github.com/TheGhostRoot/TheGhostRoot/blob/ToolBox/flutter.png?raw=true" alt="flutter" /> </a>
-</p>
+    <img src="https://img.shields.io/badge/Flutter-%23F05033.svg?style=for-the-badge&logo=flutter&logoColor=blue&color=black" alt="flutter" /> </a>
+  <a href="https://podman.io/" target="_black" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Podman-%23F05033.svg?style=for-the-badge&logo=podman&logoColor=blue&color=black" alt="podman" /> </a>
+    </dir>
 </ul>
 </details>
 
