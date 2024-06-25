@@ -9,6 +9,12 @@
 <ul>
     <p align="center"><img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theghostroot&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
     <p>🔭I would like to expend my knowledge and be better at what I am doing.</p>
     <p>🌱I can't stop learning new stuff. There is always something new that I didn't know and that is the beauty of live.</p>
     <p>👨‍💻I am looking for a job.</p>
