@@ -2,7 +2,7 @@
 <h3 align="center">I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
 
 
-<details open align="center">
+
 <h3><samp>Stats</samp></h3>
 <ul>
     <li><samp><p align="center"><img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p></samp></li>
