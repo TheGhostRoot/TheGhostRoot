@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub</h1>
 <h3 align="center">I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
+<h3 align="center">I am a backend developer and the only frontend I can do good is Flutter</h3>
 
 <details close align="center">
 <summary>
@@ -7,6 +8,10 @@
 </summary>
 <ul>
     <p align="center"><img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theghostroot&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
+    <p>🔭I would like to expend my knowledge and be better at what I am doing.</p>
+    <p>🌱I can't stop learning new stuff. There is always something new that I didn't know and that is the beauty of live.</p>
+    <p>👨‍💻I am looking for a job.</p>
 </ul>
 </details>
 
@@ -18,6 +23,15 @@
 <ul>
     <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/wof_death.gif" alt="wold" /> </p>
     <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
+    <h3>💡 Quotes<h3>
+    <p>**It's not only about coding. It's about bringing ideas to life.**</p>
+    <p>**Yesterday is history, Tomorrow is a mystery, but Today is a gift.**</p>
+    <p>**Be yourself and nobody else.**</p>
+    <p>**Anger makes you smaller, while forgiveness forces you to grow beyond what you were.**</p>
+    <p>**In C every allocation must be free.**</p>
+    <p>**The more errors you have the less you will have**</p>
+    <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/cf9035eb3a9d2c05b570d47ca2dfb508557788c5/snake.svg" alt="snake game" /> </p>
+    <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gif" alt="gravity falls" /></p>
 </ul>
 </details>
 
@@ -27,47 +41,7 @@
 <h3>Skills</h3>
 </summary>
 <ul>
-    
-</ul>
-</details>
-
-
-
-
-- 🔭 I’m currently working on **Small and big projects**
-
-- 🌱 I’m currently learning **Frameworks, Libraries and AI**
-
-- 👯 I’m looking to collaborate on **More projects and help others**
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/TheGhostRoot?tab=repositories">GitHub</a>
-
-- 📫 How to reach me Discord: \_rooty_ OR 𝓻𝓸𝓸𝓽𝔂
-
-- 💡 Quotes 
-- **It's not only about coding. It's about bringing ideas to life.**
-- **Yesterday is history, Tomorrow is a mystery, but Today is a gift.**
-- **Be yourself and nobody else.**
-- **Anger makes you smaller, while forgiveness forces you to grow beyond what you were.**
-- **In C every allocation must be free.**
-- **The more errors you have the less you will have**
-
-<!-- <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/lofi.gif" alt="lofi" /> </p> -->
-
-<h3 align="center">Contact me:</h3>
-<p align="center">
-<a href="https://www.hackerrank.com/kriskata" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kriskata" height="40" width="40" /</a>
-<a href="https://discord.gg/tHUZtECbB5" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tHUZtECbB5" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/linkedin.png" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" height="40" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
- <!--https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/d48a1dc73959d6a6a78633ddf51599ab09b06097/flask.svg-->
- <!--https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg-->
+    <p align="center"> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/d48a1dc73959d6a6a78633ddf51599ab09b06097/flask.svg" alt="flask" width="70" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -91,17 +65,23 @@
   <a href="https://flutter.dev/" target="_black" rel="noreferrer">
     <img src="https://github.com/TheGhostRoot/TheGhostRoot/blob/ToolBox/flutter.png?raw=true" alt="flutter" width="60" height="50"/> </a>
 </p>
+</ul>
+</details>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/cf9035eb3a9d2c05b570d47ca2dfb508557788c5/snake.svg" alt="snake game" /> </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theghostroot&show_icons=true&theme=dark&locale=en&layout=compact" alt="theghostroot" /></p>-->
-
-<!-- <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/game.gif" alt="terminal game" width="500" height="500" /></p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theghostroot&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gif" alt="gravity falls" /></p>
-
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theghostroot&theme=dark" alt="theghostroot" /></p> -->
+<details close align="center">
+<summary>
+<h3>Contact Me</h3>
+</summary>
+<ul>
+    <p>Discord: \_rooty_ OR 𝓻𝓸𝓸𝓽𝔂</p>
+    <p align="center">
+<a href="https://www.hackerrank.com/kriskata" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kriskata" height="40" width="40" /</a>
+<a href="https://discord.gg/tHUZtECbB5" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tHUZtECbB5" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/linkedin.png" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" height="40" width="40" /></a>
+</p>
+</ul>
+</details>
