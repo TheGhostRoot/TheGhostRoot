@@ -13,7 +13,7 @@
 </div>
 <details close align="center">
 <summary>
-<h3>Stats</h3>
+<h3>📜Stats</h3>
 </summary>
 <ul>
     <p align="center"><img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
@@ -27,7 +27,7 @@
 
 <details close align="center">
 <summary>
-<h3>Fun</h3>
+<h3>😄Fun</h3>
 </summary>
 <ul>
     <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/wof_death.gif" alt="wold" /> </p>
@@ -47,7 +47,7 @@
 
 <details close align="center">
 <summary>
-<h3>Skills</h3>
+<h3>🖥️Skills</h3>
 </summary>
 <ul>
     <p align="center"> 
@@ -80,7 +80,7 @@
 
 <details close align="center">
 <summary>
-<h3>Contact Me</h3>
+<h3>📞Contact Me</h3>
 </summary>
 <ul>
     <p>Discord: _rooty_ OR 𝓻𝓸𝓸𝓽𝔂</p>
