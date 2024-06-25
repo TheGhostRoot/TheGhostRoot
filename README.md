@@ -60,7 +60,7 @@
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=0072AD" alt="java"/> </a>
   <a href="https://code.visualstudio.com/" target="_black" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/vsc.png" alt="visual-studio-code" width="40" height="40"/> </a>
+    <img src="https://img.shields.io/badge/VisualStudoCode-%23F05033.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=0072AD" alt="visual-studio-code" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/idea/" target="_black" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/intelliJ-idea.svg" alt="intelliJ-idea" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_black" rel="noreferrer">
