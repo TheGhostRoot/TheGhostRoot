@@ -64,7 +64,7 @@
   <a href="https://www.jetbrains.com/idea/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-%23F05033.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=CE00C4" alt="intelliJ-idea"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyCharm-%23F05033.svg?style=for-the-badge&logo=pycharma&logoColor=white&color=CE7600" alt="pycharm"/> </a>
+    <img src="https://img.shields.io/badge/PyCharm-%23F05033.svg?style=for-the-badge&logo=pycharm&logoColor=white&color=CE7600" alt="pycharm"/> </a>
   <a href="https://www.minecraft.net/en-us/download" target="_black" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/minecraft.svg" alt="minecraft" width="40" height="40"/> </a>
   <a href="https://hub.docker.com/" target="_black" rel="noreferrer">
