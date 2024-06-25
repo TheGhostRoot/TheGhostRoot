@@ -86,11 +86,11 @@
     <p>Discord: _rooty_ OR 𝓻𝓸𝓸𝓽𝔂</p>
     <p align="center">
 <a href="https://www.hackerrank.com/kriskata" target="_blank" rel="noreferrer">
-  <img align="center" src="https://img.shields.io/badge/HackerRank-%23F05033.svg?style=for-the-badge&logo=hackerrank&logoColor=white&color=black" alt="https://www.hackerrank.com/kriskata" /</a>
+  <img align="center" src="https://img.shields.io/badge/HackerRank-%23F05033.svg?style=for-the-badge&logo=hackerrank&logoColor=green&color=black" alt="https://www.hackerrank.com/kriskata" /</a>
 <a href="https://discord.gg/tHUZtECbB5" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tHUZtECbB5" height="40" width="40" /></a>
+  <img align="center" src="https://img.shields.io/badge/Discord-%23F05033.svg?style=for-the-badge&logo=discord&logoColor=blue&color=black" alt="https://discord.gg/tHUZtECbB5" /></a>
 <a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/linkedin.png" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" height="40" width="40" /></a>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-%23F05033.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" height="40" width="40" /></a>
 </p>
 </ul>
 </details>
