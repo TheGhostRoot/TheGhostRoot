@@ -58,7 +58,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/python-%23F05033.svg?style=for-the-badge&logo=python&logoColor=white&color=CE9A00" alt="python"/> </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=0072AD" alt="java"/> </a>
+    <img src="https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=openjdk&logoColor=black&color=0072AD" alt="java"/> </a>
   <a href="https://code.visualstudio.com/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Visual Studo Code-%23F05033.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=0072AD" alt="visual-studio-code"/> </a>
   <a href="https://www.jetbrains.com/idea/" target="_black" rel="noreferrer">
