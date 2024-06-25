@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub</h1>
 <h3 align="center">I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
 
-
+<summery>
 <h3><samp>Stats</samp></h3>
+</summery>
 <ul>
   <p><li><p align="center"> <img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p></li></p>
 </ul>
