@@ -7,15 +7,29 @@
 <h3>Stats</h3>
 </summary>
 <ul>
-    <li><p align="center"><img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p></li>
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
 </ul>
 </details>
 
 
-<h3><samp>Fun</samp></h3>
+<details open align="center">
+<summary>
+<h3>Fun</h3>
+</summary>
+<ul>
+    <li></li>
+</ul>
+</details>
 
 
-<h3><samp>Skills</samp></h3>
+<details open align="center">
+<summary>
+<h3>Skills</h3>
+</summary>
+<ul>
+    <li></li>
+</ul>
+</details>
 
 
 
