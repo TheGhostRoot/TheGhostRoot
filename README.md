@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub</h1>
 <h3 align="center">I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
-
 <details open align="center">
 <summary>
 <h3>Stats</h3>
@@ -19,6 +17,7 @@
 </summary>
 <ul>
     <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/wof_death.gif" alt="wold" /> </p>
+    <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
 </ul>
 </details>
 
@@ -28,7 +27,7 @@
 <h3>Skills</h3>
 </summary>
 <ul>
-    <li></li>
+    
 </ul>
 </details>
 
