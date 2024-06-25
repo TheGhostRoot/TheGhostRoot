@@ -72,7 +72,7 @@
   <a href="https://flutter.dev/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Flutter-%23F05033.svg?style=for-the-badge&logo=flutter&logoColor=blue&color=black" alt="flutter" /> </a>
   <a href="https://podman.io/" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Podman-%23F05033.svg?style=for-the-badge&logo=podman&logoColor=blue&color=purple" alt="podman" /> </a>
+    <img src="https://img.shields.io/badge/Podman-%23F05033.svg?style=for-the-badge&logo=podman&logoColor=purple&color=black" alt="podman" /> </a>
     </dir>
 </ul>
 </details>
