@@ -3,7 +3,6 @@
 <h3>I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
 <h3>I am a backend developer and the only frontend I can do good is Flutter</h3>
 
-<!-- https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/tierList.png -->
 
 </br>
 </br>
@@ -18,8 +17,8 @@
 <h3>📜Stats</h3>
 </summary>
 <ul>
-    <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/tierList.png" alt="profile views"/> </p>
     <p align="center"><img src="https://komarev.com/ghpvc/?username=theghostroot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
+    <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/tierList.png" alt="profile views"/> </p>
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theghostroot&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheGhostRoot&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
