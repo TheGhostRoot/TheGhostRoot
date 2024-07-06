@@ -96,3 +96,16 @@
 </dir>
 </ul>
 </details>
+
+
+<details close align="center">
+<summary>
+<h3>❤️Support Me</h3>
+</summary>
+<ul>
+    <dir align="center">
+<a href="https://www.paypal.com/paypalme/TheGoldenMine" target="_blank" rel="noreferrer">
+  <img align="center" src="https://img.shields.io/badge/PayPal-%23F05033.svg?style=for-the-badge&logo=paypal&logoColor=blue&color=darkblue" alt="https://www.paypal.com/paypalme/TheGoldenMine" /</a></a>
+</dir>
+</ul>
+</details>
