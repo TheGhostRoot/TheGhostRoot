@@ -105,7 +105,7 @@
 <ul>
     <dir align="center">
 <a href="https://www.paypal.com/paypalme/TheGoldenMine" target="_blank" rel="noreferrer">
-  <img align="center" src="https://img.shields.io/badge/PayPal-%23F05033.svg?style=for-the-badge&logo=paypal&logoColor=blue&color=darkblue" alt="https://www.paypal.com/paypalme/TheGoldenMine" hight="4000" weight="7000"/</a></a>
+  <img align="center" src="https://img.shields.io/badge/PayPal-%23F05033.svg?style=for-the-badge&logo=paypal&logoColor=blue&color=darkblue" alt="https://www.paypal.com/paypalme/TheGoldenMine"/</a></a>
 </dir>
 </ul>
 </details>
