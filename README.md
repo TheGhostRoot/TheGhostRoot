@@ -86,7 +86,7 @@
 </summary>
 <ul>
     <dir align="center">
-        <p>Discord: _rooty_ OR 𝓻𝓸𝓸𝓽𝔂</p>
+        <p>Discord: _rooty_</p>
 <a href="https://www.hackerrank.com/kriskata" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.shields.io/badge/HackerRank-%23F05033.svg?style=for-the-badge&logo=hackerrank&logoColor=green&color=black" alt="https://www.hackerrank.com/kriskata" /</a>
 <a href="https://discord.gg/tHUZtECbB5" target="_blank" rel="noreferrer">
