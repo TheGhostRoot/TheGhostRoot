@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi 👋, Welcome to my GitHub</h1>
 <h3>I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
-<h3>I am a backend developer and the only frontend I can do good is Flutter</h3>
+<h3>I am a backend developerr</h3>
 
 
 </br>
@@ -39,7 +39,6 @@
     <p>Yesterday is history, Tomorrow is a mystery, but Today is a gift.</p>
     <p>Be yourself and nobody else.</p>
     <p>Anger makes you smaller, while forgiveness forces you to grow beyond what you were.</p>
-    <p>In C every allocation must be free.</p>
     <p>The more errors you have the less you will have.</p>
     <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/cf9035eb3a9d2c05b570d47ca2dfb508557788c5/snake.svg" alt="snake game" /> </p>
     <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gif" alt="gravity falls" /></p>
