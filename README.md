@@ -29,19 +29,15 @@
 
 <details close align="center">
 <summary>
-<h3>😄Fun</h3>
+<h3>💡 Quotes</h3>
 </summary>
 <ul>
-    <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/wof_death.gif" alt="wold" /> </p>
-    <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/7dba5b09c0d9477b6d13b7b31fb709b49877e10f/music.svg" alt="music" /> </p>
     <h3>💡 Quotes<h3>
     <p>It's not only about coding. It's about bringing ideas to life.</p>
     <p>Yesterday is history, Tomorrow is a mystery, but Today is a gift.</p>
     <p>Be yourself and nobody else.</p>
     <p>Anger makes you smaller, while forgiveness forces you to grow beyond what you were.</p>
     <p>The more errors you have the less you will have.</p>
-    <p align="center"> <img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/cf9035eb3a9d2c05b570d47ca2dfb508557788c5/snake.svg" alt="snake game" /> </p>
-    <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/bill.gif" alt="gravity falls" /></p>
 </ul>
 </details>
 
