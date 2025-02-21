@@ -55,12 +55,11 @@
     <img src="https://img.shields.io/badge/python-%23F05033.svg?style=for-the-badge&logo=python&logoColor=blue&color=CE9A00" alt="python"/> </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=openjdk&logoColor=black&color=0072AD" alt="java"/> </a>
-  <a href="https://www.minecraft.net/en-us/download" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Minecraft-%23F05033.svg?style=for-the-badge&logo=minecraft&logoColor=green&color=brown" alt="minecraft" /> </a>
   <a href="https://hub.docker.com/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=blue&color=black" alt="docker" /> </a>
   <a href="https://flutter.dev/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Flutter-%23F05033.svg?style=for-the-badge&logo=flutter&logoColor=blue&color=black" alt="flutter" /> </a>
+        
     </dir>
 </ul>
 </details>
