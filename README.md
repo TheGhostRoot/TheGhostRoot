@@ -32,7 +32,6 @@
 <h3>💡 Quotes</h3>
 </summary>
 <ul>
-    <h3>💡 Quotes<h3>
     <p>It's not only about coding. It's about bringing ideas to life.</p>
     <p>Yesterday is history, Tomorrow is a mystery, but Today is a gift.</p>
     <p>Be yourself and nobody else.</p>
@@ -56,20 +55,12 @@
     <img src="https://img.shields.io/badge/python-%23F05033.svg?style=for-the-badge&logo=python&logoColor=blue&color=CE9A00" alt="python"/> </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=openjdk&logoColor=black&color=0072AD" alt="java"/> </a>
-  <a href="https://code.visualstudio.com/" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Visual Studo Code-%23F05033.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue&color=black" alt="visual-studio-code"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-%23F05033.svg?style=for-the-badge&logo=intellij-idea&logoColor=CE00C4&color=black" alt="intelliJ-idea"/> </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyCharm-%23F05033.svg?style=for-the-badge&logo=pycharm&logoColor=CE7600&color=black" alt="pycharm"/> </a>
   <a href="https://www.minecraft.net/en-us/download" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Minecraft-%23F05033.svg?style=for-the-badge&logo=minecraft&logoColor=green&color=brown" alt="minecraft" /> </a>
   <a href="https://hub.docker.com/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=blue&color=black" alt="docker" /> </a>
   <a href="https://flutter.dev/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Flutter-%23F05033.svg?style=for-the-badge&logo=flutter&logoColor=blue&color=black" alt="flutter" /> </a>
-  <a href="https://podman.io/" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Podman-%23F05033.svg?style=for-the-badge&logo=podman&logoColor=purple&color=black" alt="podman" /> </a>
     </dir>
 </ul>
 </details>
