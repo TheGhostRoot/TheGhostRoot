@@ -1,25 +1,14 @@
-<style>
-    .head {
-        align_selft: center;
-        padding: 10px;
-        maring: 10px;
-        maring-bottom: 50px;
-    }
-</style>
+
 
 <div align="center">
-    <div style="padding: 10px;
-        maring: 10px;
-        maring-bottom: 50px;">
 <h1>Hi 👋, Welcome to my GitHub</h1>
 <h3>Software Developer trying to help the world</h3>
-    </div>
 
 </br>
 </br>
 </br>
 <p>🔭I would like to expend my knowledge and be better at what I am doing.</p>
-<p>🌱I can't stop learning new stuff. There is always something new that I didn't know and that is the beauty of live.</p>
+<p>🌱Learning new stuff and I am ready to take on challanges and be in a team.</p>
 <p>👨‍💻I am looking for a job.</p>
 </br>
 </div>
@@ -93,15 +82,3 @@
 </ul>
 </details>
 
-
-<details close align="center">
-<summary>
-<h3>❤️Support Me</h3>
-</summary>
-<ul>
-    <dir align="center">
-<a href="https://www.paypal.com/paypalme/TheGoldenMine" target="_blank" rel="noreferrer">
-  <img align="center" src="https://img.shields.io/badge/PayPal-%23F05033.svg?style=for-the-badge&logo=paypal&logoColor=blue&color=darkblue" alt="https://www.paypal.com/paypalme/TheGoldenMine"/</a></a>
-</dir>
-</ul>
-</details>
