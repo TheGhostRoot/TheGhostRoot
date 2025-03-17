@@ -8,7 +8,9 @@
 </style>
 
 <div align="center">
-    <div class="head">
+    <div style="padding: 10px;
+        maring: 10px;
+        maring-bottom: 50px;">
 <h1>Hi 👋, Welcome to my GitHub</h1>
 <h3>Software Developer trying to help the world</h3>
     </div>
