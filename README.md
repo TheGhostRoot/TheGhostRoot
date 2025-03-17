@@ -1,8 +1,17 @@
-<div align="center">
-<h1>Hi 👋, Welcome to my GitHub</h1>
-<h3>I have many names like: TheGoldenMine, TheGhostRoot, Rooty.</h3>
-<h3>I am a backend developerr</h3>
+<style>
+    .head {
+        align_selft: center;
+        padding: 10px;
+        maring: 10px;
+        maring-bottom: 50px;
+    }
+</style>
 
+<div align="center">
+    <div class="head">
+<h1>Hi 👋, Welcome to my GitHub</h1>
+<h3>Software Developer trying to help the world</h3>
+    </div>
 
 </br>
 </br>
