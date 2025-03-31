@@ -60,7 +60,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%23-239120?logo=microsoft" alt="C#" /> </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-.NET%209.0-blueviolet?logo=dotnet" alt=".NET" /> </a>
+    <img src="https://img.shields.io/badge/-.NET%209.0-blueviolet?logo=dotnet" alt=".NET" /> </a> 
+<a href="https://nginx.org/" target="_black" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="nginx" /> </a>
 </ul>
 </details>
 
