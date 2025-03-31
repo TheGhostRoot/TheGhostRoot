@@ -58,9 +58,9 @@
   <a href="https://hub.docker.com/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=blue&color=black" alt="docker" /> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_black" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UD2gPsVptEPnVfwLXXdNimeOXI-QGREpsA&s" alt="C#" hight="20" weight="30" /> </a>
+    <img src="https://img.shields.io/badge/C%23-239120?logo=microsoft" alt="C#" /> </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_black" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-.NET%208.0-blueviolet?logo=dotnet" alt=".NET" hight="20" weight="30" /> </a>
+    <img src="https://img.shields.io/badge/-.NET%209.0-blueviolet?logo=dotnet" alt=".NET" /> </a>
 </ul>
 </details>
 
