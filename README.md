@@ -1,6 +1,6 @@
 
+</div align="center">
 
-<div align="center">
 <h1>Hi 👋, Welcome to my GitHub</h1>
 <h3>Software Developer trying to help the world</h3>
 
@@ -10,21 +10,21 @@
 <p>🔭I would like to expend my knowledge and be better at what I am doing.</p>
 <p>🌱Learning new stuff and I am ready to take on challanges and be in a team.</p>
 <p>👨‍💻I am looking for a job.</p>
-</br>
+
 </div>
-<details close align="center">
+<details close >
 <summary>
 <h3>📜Stats</h3>
 </summary>
 <ul>
-    <p align="center"><img src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
-    <p align="center"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyandinev&layout=compact&theme=tokyonight&langs_count=8&card_width=320" /></p>
+    <p ><img src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
+    <p ><img src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
+    <p ><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyandinev&layout=compact&theme=tokyonight&langs_count=8&card_width=320" /></p>
 </ul>
 </details>
 
 
-<details close align="center">
+<details close>
 <summary>
 <h3>💡 Quotes</h3>
 </summary>
@@ -38,12 +38,11 @@
 </details>
 
 
-<details close align="center">
+<details close>
 <summary>
 <h3>🖥️Skills</h3>
 </summary>
 <ul>
-    <dir align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=D84300" alt="git"/> </a>
         
@@ -71,18 +70,19 @@
 </details>
 
 
-<details close align="center">
+<details close>
 <summary>
 <h3>📞Contact Me</h3>
 </summary>
 <ul>
-    <dir align="center">
         <p>Discord: _rooty_</p>
 <a href="https://www.hackerrank.com/kriskata" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.shields.io/badge/HackerRank-%23F05033.svg?style=for-the-badge&logo=hackerrank&logoColor=green&color=black" alt="https://www.hackerrank.com/kriskata" /</a>
+    
 <a href="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-%23F05033.svg?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" alt="https://www.linkedin.com/in/kristiyan-dinev-7a9b07265/" /></a>
-</dir>
+
 </ul>
 </details>
 
+</div>
