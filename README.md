@@ -17,12 +17,9 @@
 <h3>📜Stats</h3>
 </summary>
 <ul>
-    <p align="center"><img src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
-    <!-- <p align="center"><img src="https://raw.githubusercontent.com/TheGhostRoot/TheGhostRoot/ToolBox/tierList.png" alt="profile views"/> </p> -->
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyandinev&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyandinev&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
 </ul>
 </details>
 
@@ -49,18 +46,25 @@
     <dir align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=D84300" alt="git"/> </a>
+        
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/linux-%23F05033.svg?style=for-the-badge&logo=linux&logoColor=black&color=white" alt="linux"/> </a>
+    
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/python-%23F05033.svg?style=for-the-badge&logo=python&logoColor=blue&color=CE9A00" alt="python"/> </a>
+    
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=openjdk&logoColor=black&color=0072AD" alt="java"/> </a>
+    
   <a href="https://hub.docker.com/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=blue&color=black" alt="docker" /> </a>
+    
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%23-239120?logo=microsoft" alt="C#" /> </a>
+    
   <a href="https://dotnet.microsoft.com/en-us/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/-.NET%209.0-blueviolet?logo=dotnet" alt=".NET" /> </a> 
+    
 <a href="https://nginx.org/" target="_black" rel="noreferrer">
     <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="nginx" /> </a>
 </ul>
