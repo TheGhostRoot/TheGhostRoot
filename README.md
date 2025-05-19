@@ -17,8 +17,8 @@
 <h3>📜Stats</h3>
 </summary>
 <ul>
-    <img height=200 align="center" src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyandinev&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
 </ul>
 </details>
