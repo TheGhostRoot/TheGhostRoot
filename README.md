@@ -17,9 +17,9 @@
 <h3>📜Stats</h3>
 </summary>
 <ul>
-    <p ><img src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
-    <p ><img src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
-    <p ><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyandinev&layout=compact&theme=tokyonight&langs_count=8&card_width=320" /></p>
+    <p><img src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
+    <p><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyandinev&layout=compact&theme=tokyonight&langs_count=8&card_width=320" /></p>
 </ul>
 </details>
 
@@ -43,8 +43,37 @@
 <h3>🖥️Skills</h3>
 </summary>
 <ul>
-    <li>Hi</li>
-    
+    <li>Java</li>
+    <li>Spring Boot</li>
+    <li>Spring Framework</li>
+    <li>JPA</li>
+    <li>JUnit</li>
+    <li>JDBC</li>
+    <li>Hibernate ORM</li>
+    <li>C#</li>
+    <li>ASP.NET Entity Framework Core</li>
+    <li>ASP.NET Identity</li>
+    <li>Python</li>
+    <li>Flask</li>
+    <li>Ngrok</li>
+    <li>Nginx</li>
+    <li>WebSockets</li>
+    <li>Network Programming</li>
+    <li>RabbitMQ</li>
+    <li>Bootstrap</li>
+    <li>JavaScript</li>
+    <li>CI/CD (GitHub Actions)</li>
+    <li>Maven</li>
+    <li>Gradle</li>
+    <li>PostgreSQL</li>
+    <li>MongoDB</li>
+    <li>SQLite</li>
+    <li>SQL Server (MSSQL)</li>
+    <li>MySQL</li>
+    <li>Git</li>
+    <li>Docker</li>
+    <li>Linux</li>
+    <li>Windows</li>
 </ul>
 </details>
 
