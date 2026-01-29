@@ -18,8 +18,6 @@
 </summary>
 <ul>
     <p><img src="https://komarev.com/ghpvc/?username=kristiyandinev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> </p>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=kristiyandinev&show_icons=true&theme=tokyonight&locale=en" alt="theghostroot" /></p>
-    <p><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyandinev&layout=compact&theme=tokyonight&langs_count=8&card_width=320" /></p>
 </ul>
 </details>
 
